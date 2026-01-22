@@ -1,0 +1,11 @@
+msg_id,app_protocol,src_app,dst_app,message,timestamp
+1,CHAT,Client,Server,"Hello server",0.001
+2,CHAT,Client,Server,"Hi, can you hear me?",0.120
+3,CHAT,Server,Client,"Yes I am connected",0.245
+4,CHAT,Client,Server,"How many clients are online?",0.380
+5,CHAT,Server,Client,"Currently five clients connected",0.515
+6,CHAT,Client,Server,"Great, sending test message",0.660
+7,CHAT,Client,Server,"This is a sample chat message",0.810
+8,CHAT,Client,Server,"Checking TCP encapsulation",0.960
+9,CHAT,Client,Server,"Almost done, closing soon",1.110
+10,CHAT,Client,Server,"Goodbye",1.260
